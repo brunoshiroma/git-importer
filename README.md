@@ -1,8 +1,10 @@
 # Import git repos
 
 ## Usage:
+```
+ npm install
  npm run index.js
-
+```
 ## Config
 .env
 ```
