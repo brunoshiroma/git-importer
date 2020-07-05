@@ -1,0 +1,5 @@
+.vscode
+.env
+repos.json
+node_modules
+git-importer-*
